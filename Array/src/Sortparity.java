@@ -1,3 +1,4 @@
+//if even hai then on right most side to left placing ,, if odd then left most to right placing//
 public class Sortparity {
     public int[] sortArrayByParity(int[] nums) {
         int left = 0;
