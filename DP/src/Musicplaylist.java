@@ -1,3 +1,4 @@
+import java.util.*;
 public class Musicplaylist {
     private final int MOD = 1_000_000_007;
     int N;
