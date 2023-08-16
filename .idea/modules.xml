@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/Greedy/Greedy.iml" filepath="$PROJECT_DIR$/Greedy/Greedy.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedLIst/LinkedLIst.iml" filepath="$PROJECT_DIR$/LinkedLIst/LinkedLIst.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sliding Window/Sliding Window.iml" filepath="$PROJECT_DIR$/Sliding Window/Sliding Window.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/matrix/matrix.iml" filepath="$PROJECT_DIR$/matrix/matrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/tree/tree.iml" filepath="$PROJECT_DIR$/tree/tree.iml" />
